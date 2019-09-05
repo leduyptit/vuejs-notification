@@ -1,10 +1,10 @@
 {
-  "name": "vue2-notify",
+  "name": "vuejs-notification",
   "description": "Simple notify component for VueJS 2",
   "version": "1.4.0",
-  "author": "Adam van Dongen <adam@bandhosting.nl>",
+  "author": "Khuong Duy",
   "license": "MIT",
-  "homepage": "https://github.com/websmurf/vue2-notify",
+  "homepage": "https://github.com/leduyptit/vuejs-notification",
   "private": false,
   "keywords": [
     "vue",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/websmurf/vue2-notify"
+    "url": "git+https://github.com/leduyptit/vuejs-notification.git"
   },
   "bugs": {
-    "url": "https://github.com/websmurf/vue2-notify/issues"
+    "url": "https://github.com/leduyptit/vuejs-notification/issues"
   },
   "dependencies": {},
   "browserslist": [
@@ -79,5 +79,8 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }

@@ -17,7 +17,7 @@ Optional packages:
 ## Install
 
 ```
-$ yarn add vue2-notify
+$ yarn add vuejs-notification
 ```
 
 Then in your main.js:
